@@ -1,0 +1,133 @@
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
+
+* {
+    font-family: 'Jeju Gothic', sans-serif;
+}
+.left{
+    width:20%;
+    float:left;
+    box-sizing : border-box;
+}
+.right{
+    width:75%;
+    float:right;
+    box-sizing : border-box;
+}
+.name{
+    text-align: center;
+    font-weight: bold;
+    border-bottom : 5px solid #ebebeb;
+}
+.my-image{
+    width: 180px;
+    height: 210px;
+    box-shadow: 8px 8px 10px 0 rgba(247,207,198,0.5);
+}
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 16px;
+    font-weight: lighter;
+    color: #282828;
+    border-bottom: 1px solid #ebebeb;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.name-text {  
+    text-align: center;                                
+    font-size: 17px;                         
+    color: #7c7c7c;
+    font-weight: bold;
+}
+
+.mainbox {
+    width: 80%;
+    padding: 30px;
+    margin: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #ebebeb;
+    box-shadow: 10px 10px 10px 0 rgba(247,207,198,0.5);
+}
+.box1{
+    padding: 10px;
+    border: 1px solid rgba(247,207,198,0.5);
+    box-shadow: 1px 1px 10px 0 rgba(247,207,198,0.5);
+}
+
+footer {
+    text-align: center;
+    background-color: #1e1e1e;
+    padding: 20px;
+    font-size: 12px;
+    color: #919191;
+}
+
+section {
+    margin-bottom: 24px;
+}
+
+.name-text {
+    font-size: 16px;
+    color: #7c7c7c;
+    font-weight: bold;
+}
+
+.about-me-text {
+    font-size: 10px;
+    line-height: 16px;
+    overflow: hidden;
+}
+
+.title-text {
+    font-size: 11px;
+    font-weight: bold;
+    color: #282828;
+    float: left;
+}
+.title-text2 {
+    font-size: 13px;
+    font-weight: bold;
+    color: #282828;
+    float: left;
+}
+
+.explain-text {
+    font-size: 11px;
+    font-weight: bold;
+    color: #282828;
+    float: right;
+}
+
+	
+.float-wrap {
+    overflow: hidden;
+}
+
+.desc-text {
+    font-size: 11px;
+}
+
+.desc-subtext {
+    font-size: 11px;
+    color: #282828;
+    padding-left: 16px;
+}
+
+	
+.sns-img {
+    width: 12px;
+    height: 12px;
+}
+
+.sns-wrap {
+    text-align: right;
+}
